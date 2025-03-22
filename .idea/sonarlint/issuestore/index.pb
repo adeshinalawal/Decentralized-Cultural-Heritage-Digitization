@@ -9,3 +9,7 @@ T
 $contracts/artifact-registration.clar,e/1/e10b804c08924cea5884c54534d82516d96d3f15
 S
 #tests/artifact-registration.test.ts,0/0/00fc7eeed5f102c4c848fa4690b8fe3e82e574a7
+J
+contracts/attribution.clar,0/c/0c80ea37b78b9a2d54dd28028d2e74c5dc09c4f8
+I
+tests/attribution.test.ts,a/e/ae7e896af0db01ebd391c49b923ed449ee6510fb
