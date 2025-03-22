@@ -13,3 +13,7 @@ J
 contracts/attribution.clar,0/c/0c80ea37b78b9a2d54dd28028d2e74c5dc09c4f8
 I
 tests/attribution.test.ts,a/e/ae7e896af0db01ebd391c49b923ed449ee6510fb
+S
+#contracts/digital-preservation.clar,7/6/76b9613eb8b4b6bfea8b0ffdd0b3c7eb50464be7
+R
+"tests/digital-preservation.test.ts,9/3/93ac8202788e5fafb726a5cf15726e7e0277b2ab
