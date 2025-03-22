@@ -1,0 +1,2 @@
+# Decentralized Cultural Heritage Digitization
+ 
